@@ -1,0 +1,13 @@
+div.home-container {
+    text-align: center;
+}
+
+div.home-container .link-calendar {
+    text-decoration: none;
+    font-size: xx-large;
+    cursor: pointer;
+}
+
+div.home-container .link-calendar:hover {
+    text-decoration: underline;
+}
